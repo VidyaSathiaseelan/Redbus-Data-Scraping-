@@ -1,0 +1,60 @@
+//*[@id="Carousel"]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]
+//*[@id="Carousel"]/div[2]/div[1]/div[1]/div[2]/div[1]/div[2]
+//*[@id="Carousel"]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+//*[@id="Carousel"]/div[4]/div[1]/div[1]/div[2]/div[1]/div[1]
+//*[@id="Carousel"]/div[5]/div[1]/div[1]/div[2]/div[1]/div[1]
+//*[@id="Carousel"]/div[6]/div[1]/div[1]/div[2]/div[1]/div[1]
+
+//*[@id="Carousel"]/div[1]/div[1]
+
+//*[@id="Carousel"]/span/span
+//*[@id="Carousel"]/span/span
+//*[@id="Carousel"]/span/span
+
+//*[@id="Carousel"]/span/span/i
+
+
+APSRTC view bus:
+
+//*[@id="result-section"]/div[1]/div/div[2]/div/div[4]/div[2]
+
+TGSRTC view bus:
+
+//*[@id="result-section"]/div[2]/div/div[2]/div/div[4]/div[2]
+
+freshbus
+
+//*[@id="27239658"]/div/div[1]/div[1]/div[1]/div[1]
+
+//*[@id="26930263"]/div/div[1]/div[1]/div[1]/div[1]
+
+
+type
+//*[@id="27239658"]/div/div[1]/div[1]/div[1]/div[2]/text()
+
+
+dep time
+//*[@id="27239658"]/div/div[1]/div[1]/div[2]/div[1]
+
+//*[@id="26930263"]/div/div[1]/div[1]/div[2]/div[1]
+duration
+//*[@id="27239658"]/div/div[1]/div[1]/div[3]/div
+Ar time
+//*[@id="27239658"]/div/div[1]/div[1]/div[4]/div[1]
+rating
+//*[@id="27239658"]/div/div[1]/div[1]/div[5]/div[1]/div/span
+starting price
+//*[@id="27239658"]/div/div[1]/div[1]/div[6]/div[1]/div[3]/span
+seats available
+//*[@id="27239658"]/div/div[1]/div[1]/div[7]/div[1]/text()
+
+
+
+
+
+
+//*[@id="result-section"]/div[1]/div/div[2]/div/div[4]/div[2]
+//*[@id="result-section"]/div[2]/div/div[2]/div/div[4]/div[2]
+//*[@id="result-section"]/div[1]/div/div[2]/div/div[4]/div[2]
+//*[@id="result-section"]/div[1]/div/div[2]/div/div[4]/div[2]
+//*[@id="result-section"]/div[1]/div/div[2]/div/div[4]/div[2]
